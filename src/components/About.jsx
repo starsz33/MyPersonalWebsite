@@ -14,7 +14,7 @@ export default function About() {
           <h2 className="text-3xl font-bold text-white mb-6">About <span className="text-blue-400">Me</span></h2>
           <p className="text-gray-400 text-base leading-relaxed mb-4">
             I'm a final-year Computer &amp; Software Engineering student at the University of Rwanda with a
-            strong foundation in networking, cybersecurity, and full-stack development.
+            strong foundation in full-stack development,networking and cybersecurity.
           </p>
           <p className="text-gray-400 text-base leading-relaxed">
             I enjoy solving real-world problems through technology — whether it's building mobile apps with Flutter,
@@ -31,7 +31,7 @@ export default function About() {
           {[
             { label: 'Location', value: 'Kigali, Rwanda 🇷🇼' },
             { label: 'Degree', value: 'BSc. Computer & Software Eng.' },
-            { label: 'Focus', value: 'Full-Stack & Cybersecurity' },
+            { label: 'Focus', value: 'Full-Stack & Networking Engineer' },
             { label: 'Status', value: 'Open to Opportunities ✅' },
           ].map(({ label, value }) => (
             <div key={label} className="bg-gray-900 border border-gray-800 rounded-xl p-4">

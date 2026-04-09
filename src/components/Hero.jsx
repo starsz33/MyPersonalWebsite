@@ -64,10 +64,10 @@ export default function Hero() {
             </a>
             <a
               href="/resume.pdf"
-              download
-              className="border border-gray-600 text-gray-300 hover:border-blue-400 hover:text-blue-400 px-6 py-3 rounded-full font-semibold transition"
+              download="Uwingeneye_Esther_CV.pdf"
+              className="border border-gray-600 text-gray-300 hover:border-blue-400 hover:text-blue-400 px-6 py-3 rounded-full font-semibold transition flex items-center gap-2"
             >
-              Download CV
+              <span>⬇️</span> Download CV
             </a>
           </motion.div>
         </div>

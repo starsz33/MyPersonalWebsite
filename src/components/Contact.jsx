@@ -27,17 +27,17 @@ export default function Contact() {
               I'm open to opportunities, collaborations, or just a good tech conversation. Feel free to reach out!
             </p>
             <div className="space-y-4">
-              <a href="mailto:uwingeneye.esther@example.com" className="flex items-center gap-3 text-gray-300 hover:text-blue-400 transition">
+              <a href="mailto:estheruw11@gmail.com" className="flex items-center gap-3 text-gray-300 hover:text-blue-400 transition">
                 <span className="text-xl">✉️</span>
-                <span>uwingeneye.esther@example.com</span>
+                <span>estheruw11@gmail.com</span>
               </a>
-              <a href="https://github.com/" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-gray-300 hover:text-blue-400 transition">
+              <a href="https://github.com/starsz33" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-gray-300 hover:text-blue-400 transition">
                 <span className="text-xl">🐛</span>
-                <span>github.com/esther</span>
+                <span>https://github.com/starsz33</span>
               </a>
-              <a href="https://linkedin.com/" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-gray-300 hover:text-blue-400 transition">
+              <a href="https://www.linkedin.com/in/uwingeneye-esther-ab4135402/?skipRedirect=true" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-gray-300 hover:text-blue-400 transition">
                 <span className="text-xl">💼</span>
-                <span>linkedin.com/in/esther</span>
+                <span>https://www.linkedin.com/in/uwingeneye-esther-ab4135402/?skipRedirect=true</span>
               </a>
             </div>
           </motion.div>

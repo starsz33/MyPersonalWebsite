@@ -1,0 +1,1 @@
+<h1 className="text-5xl text-blue-500">Tailwind is Working</h1>
